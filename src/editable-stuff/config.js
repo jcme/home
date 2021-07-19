@@ -126,7 +126,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "Always looking to speak to other engineering leaders. Drop me a line if there's anything I can help with.",
+    "Always looking to speak to other engineering leaders. Drop me a line if there's anything I can help with",
   email: "holmes.jc@gmail.com",
 };
 
